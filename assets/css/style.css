@@ -1,0 +1,245 @@
+ @import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
+ 
+ * {margin: 0;
+   padding: 0;
+   border: 0;}
+
+   html{
+       scroll-behavior: auto;}
+
+   body {background-color: #000000a9;
+         font-family: "epilogue", sans-serif;
+         font-size: 65%;
+         position: relative;}
+
+   .nav-link {color: #ffffff;
+    font-size: ;
+    text-decoration: none;
+    font-family: "epilogue", sans-serif;
+    letter-spacing: 1px;
+    margin-left: 30px;
+  
+    }
+
+    .navbar
+    {height: 100px;}
+
+    .navbar-nav {background-color: black;}
+
+    .nav-link:hover 
+    {color: aqua;}
+
+    .navbar-brand{color: #ffffff;
+  
+  font-size: 1.5rem;
+  letter-spacing: 3px;
+  float: left;
+  margin-left: 1px;
+  }
+
+  .navbar-brand:hover 
+  {color: aqua;}
+
+  .navbar-toggler {background-color: #ffffff;
+height: 25px;
+padding-bottom: 15px;
+margin-right: 10px;}
+
+.navbar-toggler-icon 
+{color: #000000;}
+
+.nav-bg-color {background-color: #000000;
+  }
+
+  .container {
+  background-color: #000000;
+  border-radius: 40px;
+  padding: 70px;
+  margin-top: 120px;
+  margin-bottom: 25px;
+  
+  
+  }
+
+  
+
+  
+  h1 {color: white;
+text-align: center;
+font-size: 300%;}
+
+  .social-networks, li
+{display: inline;
+font-size: 190%;
+padding-right: 10px;
+}
+
+.list-group-item {background-color: black;
+color: white;
+margin-left: 0%;
+font-size: large;
+text-align: center;}
+
+.contacts, p{padding-left: 5px;}
+
+
+
+.card-body {background-color: black;
+color: white;
+}
+
+.card-text
+{color: #ffffff;
+font-size: medium;
+text-align: center;
+padding-bottom: 12px;
+}
+
+.card-img-top {height: 50%;
+width: 100%;
+border-radius: none;}
+
+.card-img-top:hover{height: 50%;
+width: 100%;
+transform: scale(1.01);
+border-radius: none;
+cursor: pointer;}
+
+.card {
+border: 1px solid white;
+width: 100%;
+margin-right: 4px;
+margin-left: 4px;
+margin-top: 4px;
+margin-left: 2px;
+border-radius: none;
+}
+
+.card-title 
+{font-size: medium;
+color: white;
+text-align: center;}
+
+h2 {color: white;
+text-align: center;
+padding: 20px;}
+
+ h1 {color: white;
+text-align: center;
+font-size: 300%;}
+
+
+
+#times, p {text-align: center;
+font-size: 190%;
+padding-top: 5px;
+padding-right: 5px;
+}
+
+.about-paragraphs {color: white;}
+
+.times {color: white;}
+input[type=text], textarea {width: 100%;
+  padding: 20px;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;}
+
+#button {
+  background-color: blue;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 150%;
+}
+
+
+#first-name {color: white;
+font-size: 170%;}
+
+#last-name {color: white;
+font-size: 170%;}
+
+#email-address  {color: white;
+font-size: 170%;}
+
+#phone-number {color: white;
+font-size: 170%;}
+
+#subject {color: white;
+font-size: 170%;}
+
+::placeholder{font-size: medium;
+color: black;}
+
+h3
+{color: white;
+text-align: center;
+letter-spacing: 1px;
+margin-top: 10px;}
+
+hr {background-color: white;
+text-align: center;
+margin: 20px;
+}
+
+.book-now {padding: 50px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+
+  
+
+
+
+        
+    
+
+
+

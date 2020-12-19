@@ -13,11 +13,12 @@
          position: relative;}
 
    .nav-link {color: #ffffff;
-    font-size: ;
+    font-size: 105%;
     text-decoration: none;
     font-family: "epilogue", sans-serif;
     letter-spacing: 1px;
     margin-left: 30px;
+    margin-top: none;
   
     }
 
@@ -30,11 +31,12 @@
     {color: aqua;}
 
     .navbar-brand{color: #ffffff;
-  
-  font-size: 1.5rem;
-  letter-spacing: 3px;
-  float: left;
-  margin-left: 1px;
+    font-size: 250%;
+    text-decoration: none;
+    font-family: "epilogue", sans-serif;
+    letter-spacing: 1px;
+    margin-left: 5px;
+    margin-top: none;
   }
 
   .navbar-brand:hover 
@@ -71,16 +73,22 @@ font-size: 300%;}
   .social-networks, li
 {display: inline;
 font-size: 190%;
-padding-right: 10px;
+padding-right: 12px;
+
 }
 
 .list-group-item {background-color: black;
 color: white;
 margin-left: 0%;
 font-size: large;
-text-align: center;}
+text-align: center;
+}
 
-.contacts, p{padding-left: 5px;}
+div.contacts {margin-top: none;}
+
+
+
+
 
 
 
@@ -134,8 +142,8 @@ font-size: 300%;}
 
 #times, p {text-align: center;
 font-size: 190%;
-padding-top: 5px;
-padding-right: 5px;
+margin-top: 2px;
+
 }
 
 .about-paragraphs {color: white;}
@@ -176,7 +184,7 @@ font-size: 170%;}
 #subject {color: white;
 font-size: 170%;}
 
-::placeholder{font-size: medium;
+::placeholder{font-size: large;
 color: black;}
 
 h3
@@ -189,6 +197,10 @@ hr {background-color: white;
 text-align: center;
 margin: 20px;
 }
+
+
+
+
 
 
 

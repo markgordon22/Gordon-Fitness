@@ -21,9 +21,7 @@
     font-family: "epilogue", sans-serif;
     letter-spacing: 1px;
     margin-left: 30px;
-    margin-top: none;
-  
-    }
+    margin-top: none;}
 
     .navbar
     {height: 100px;}
@@ -49,25 +47,21 @@
   .fas fa-dumbbell {margin-left: none;}
 
   .navbar-toggler {background-color: #ffffff;
-height: 25px;
-padding-bottom: 15px;
-margin-right: 10px;}
+                   height: 25px;
+                   padding-bottom: 15px;
+                   margin-right: 10px;}
 
-.navbar-toggler-icon 
-{color: #000000;}
 
-.nav-bg-color {background-color: #000000;
-  }
+.nav-bg-color {background-color: #000000;}
 
   .container {
   background-color: #000000;
   border-radius: 40px;
   padding: 30px;
   margin-top: 120px;
-  margin-bottom: 25px;
-   
-  
-  }
+  margin-bottom: 25px;}
+
+  .about-paragraphs {color: white;}
 
   h1 {color: white;
 text-align: center;
@@ -79,6 +73,8 @@ font-size: 190%;
 padding-right: 12px;
 
 }
+
+
 
 .list-group-item {background-color: black;
 color: white;
@@ -130,18 +126,22 @@ h2 {color: white;
 text-align: center;
 padding: 20px;}
 
+h3
+{color: white;
+text-align: center;
+letter-spacing: 1px;
+margin-top: 10px;
+font-size: large;}
+
  
-
-
-
 #times, p {text-align: center;
 font-size: 190%;
-margin-top: 2px;
+margin-top: 2px;}
 
+hr {background-color: white;
+text-align: center;
+margin: 20px;
 }
-
-.about-paragraphs {color: white;
-font-family: "epilogue", sans-serif;}
 
 .times {color: white;}
 input[type=text], textarea {width: 100%;
@@ -151,6 +151,9 @@ input[type=text], textarea {width: 100%;
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;}
+
+
+
 
 #button {
   background-color: blue;
@@ -182,19 +185,11 @@ font-size: 170%;}
 ::placeholder{font-size: large;
 color: black;}
 
-h3
-{color: white;
-text-align: center;
-letter-spacing: 1px;
-margin-top: 10px;
-font-size: large;}
 
-.contact-header {font-size: 30px;}
 
-hr {background-color: white;
-text-align: center;
-margin: 20px;
-}
+
+
+
 
 
 

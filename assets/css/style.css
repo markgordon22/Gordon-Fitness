@@ -150,7 +150,7 @@ input[type=text], textarea {width: 100%;
   border: 1px solid #000000;
   border-radius: 5px;
   box-sizing: border-box;
-  margin-top: 6px;
+  margin-top: 10px;
   margin-bottom: 16px;}
 
 
@@ -169,22 +169,29 @@ input[type=text], textarea {width: 100%;
 
 
 #first-name {color: white;
-font-size: 170%;}
+font-size: 170%;
+margin-top: 10px;}
 
 #last-name {color: white;
-font-size: 170%;}
+font-size: 170%;
+margin-top: 10px;}
 
 #email-address  {color: white;
-font-size: 170%;}
+font-size: 170%;
+margin-top: 5px;}
 
 #phone-number {color: white;
-font-size: 170%;}
+font-size: 170%;
+margin-top: 10px;}
 
 #subject {color: white;
-font-size: 170%;}
+font-size: 170%;
+margin-top: 10px;}
 
 ::placeholder{font-size: large;
 color: black;}
+
+
 
 
 

@@ -21,7 +21,7 @@
     font-family: "epilogue", sans-serif;
     letter-spacing: 1px;
     margin-left: 30px;
-    margin-top: none;}
+    }
 
     .navbar
     {height: 100px;}
@@ -37,14 +37,14 @@
     font-family: "epilogue", sans-serif;
     letter-spacing: 1px;
     margin-left: 1px;
-    margin-top: none;
+    
   }
 
 
   .navbar-brand:hover 
   {color: aqua;}
   
-  .fas fa-dumbbell {margin-left: none;}
+  
 
   .navbar-toggler {background-color: #ffffff;
                    height: 25px;
@@ -106,18 +106,16 @@ border-radius: none;
 .card-img-top:hover{height: 290px;
 width: 100%;
 transform: scale(1.01);
-border-radius: none;
+
 cursor: pointer;}
 
 .card {
 border: 1px solid white;
 width: 100%;
 margin-right: 4px;
-margin-left: 4px;
 margin-top: 15px;
 margin-left: 2px;
-border-radius: none;
-height: 100%;
+height: auto;
 }
 
 .card-title 

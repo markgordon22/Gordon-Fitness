@@ -59,11 +59,10 @@
   border-radius: 40px;
   padding: 30px;
   margin-top: 120px;
-  margin-bottom: 25px;}
+  margin-bottom: 25px;
+  }
 
-  
-
-  .about-paragraphs {color: white;}
+.about-paragraphs {color: white;}
 
   h1 {color: white;
 text-align: center;
@@ -73,10 +72,12 @@ font-size: 300%;}
 {display: inline;
 font-size: 190%;
 padding-right: 12px;
-
 }
 
-.address{color: white;}
+.address {color: white;
+font-size: 20px;}
+
+
 
 .list-group-item {background-color: black;
 color: white;
@@ -106,7 +107,6 @@ border-radius: none;
 .card-img-top:hover{height: 290px;
 width: 100%;
 transform: scale(1.01);
-
 cursor: pointer;}
 
 .card {
@@ -134,17 +134,19 @@ letter-spacing: 1px;
 margin-top: 10px;
 font-size: large;}
 
+
+
  
 #times, p {text-align: center;
 font-size: 190%;
 margin-top: 2px;}
 
-hr {background-color: white;
-text-align: center;
-margin: 20px;
-}
 
-.times {color: white;}
+
+.times {color: white;
+padding-top: 30px;}
+
+
 input[type=text], textarea {width: 100%;
   padding: 20px;
   border: 1px solid #000000;
@@ -170,26 +172,32 @@ input[type=text], textarea {width: 100%;
 
 #first-name {color: white;
 font-size: 170%;
-margin-top: 10px;}
+}
 
 #last-name {color: white;
 font-size: 170%;
-margin-top: 10px;}
+}
 
 #email-address  {color: white;
 font-size: 170%;
-margin-top: 5px;}
+}
 
 #phone-number {color: white;
 font-size: 170%;
-margin-top: 10px;}
+}
 
 #subject {color: white;
 font-size: 170%;
-margin-top: 10px;}
+}
 
 ::placeholder{font-size: large;
 color: black;}
+
+label {margin: 10px;}
+
+input {margin: 10px;}
+
+textarea {color: black;}
 
 
 

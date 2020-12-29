@@ -36,9 +36,7 @@
     text-decoration: none;
     font-family: "epilogue", sans-serif;
     letter-spacing: 1px;
-    margin-left: 1px;
-    
-  }
+    margin-left: 1px;}
 
 
   .navbar-brand:hover 
@@ -138,13 +136,13 @@ font-size: large;}
 
  
 #times, p {text-align: center;
-font-size: 190%;
+fs
 margin-top: 2px;}
 
 
 
 .times {color: white;
-padding-top: 30px;}
+padding-top: 90px;}
 
 
 input[type=text], textarea {width: 100%;
